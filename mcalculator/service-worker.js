@@ -1,0 +1,1 @@
+No Content: https://mcalculator.muzam1l.com/mcalculator/service-worker.js
